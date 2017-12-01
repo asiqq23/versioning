@@ -1,0 +1,22 @@
+{
+  "name": "versioning",
+  "version": "0.1.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asiqq23/versioning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asiqq23/versioning/issues"
+  },
+  "homepage": "https://github.com/asiqq23/versioning#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
